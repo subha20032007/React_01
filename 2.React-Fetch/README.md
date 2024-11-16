@@ -1,3 +1,5 @@
+`img.png`
+
 ## React-Fetch-Posts Onclick
 
 ## Submission Instructions [Please note]
