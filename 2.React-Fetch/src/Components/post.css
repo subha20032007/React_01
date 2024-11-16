@@ -1,0 +1,17 @@
+.post{
+    border: 1px solid teal;
+    height: auto;
+    width: 70%;
+    margin: auto;
+    margin-top: 19px;
+    background-color: black;
+}
+.post>h1{
+color: blueviolet;
+font-family: 'Courier New', Courier, monospace;
+
+}
+.post>h3{
+color: red;
+font-family: 'Courier New', Courier, monospace;
+}
