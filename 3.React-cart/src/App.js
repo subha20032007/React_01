@@ -26,6 +26,12 @@ function App() {
 
       <h1 id="total-cart" data-testid="total-cart">
         {/* Show the total of the Cart(a actual Price of a Product = price * quantity) */}
+        {
+          data.reduce((acc,el)=>(
+           <p>{console.log(acc,"*")}</p>
+            
+          ))
+        }
       </h1>
     </div>
   );
