@@ -12,7 +12,8 @@ const [load,setLoad]=useState(false);
 const [err,setErr]=useState(false)
 let url=`https://jsonplaceholder.typicode.com/posts`
 
-  const fetchAndUpdate=async()=>{
+  
+  const fetchAndUpdate = async () => {
     setLoad(true)
     try{
     setLoad(false)

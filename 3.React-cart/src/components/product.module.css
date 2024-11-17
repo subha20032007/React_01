@@ -1,0 +1,17 @@
+.product{
+    display: flex;
+    height:100px;
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+    border: 1px solid rgb(214, 9, 9);
+    justify-content: space-evenly;
+    padding: 1%;
+}
+button{
+    height: 35px;
+    width: 35px;
+    background-color: blueviolet;
+    color: aliceblue;
+   margin-top: 25px;
+}
