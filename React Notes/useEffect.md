@@ -9,7 +9,7 @@ mount phase
 }
 },[depend])
 3.There are three phases to a component Lifecycle
-* Mounting
-* Updating
-* Unmounting
-//.
+* Mounting callback
+* Updating dependencies
+* Unmounting 
+//1
