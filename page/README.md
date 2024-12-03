@@ -3,7 +3,7 @@
 ## Submission Instrions [Please note]
 
 ### Maximum Marks - 10
-//12
+//1
 - Do not push node_modules to github
 - Rubrics / Marking Scheme is below ( we will convert this back to a scale of 10 )
 
